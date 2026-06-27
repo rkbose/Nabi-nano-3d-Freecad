@@ -1,9 +1,9 @@
-Version 23jan2025
+Version2:  27June2026
 
-.
+Version 2 is larger than version 1 with more internal space for electronics.
 
 
-![Screenshot](Screenshot from 2026-06-14 09-16-05.png)
+![/Screenshot from 2026-06-14 09-16-05.png](Screenshot from 2026-06-14 09-16-05.pngraw=true "3d printed nabby tiny")
 
 
 Based on .stl file from: Nanoztag clone by clarionut on Thingiverse: https://www.thingiverse.com/thing:3719998
