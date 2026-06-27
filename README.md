@@ -1,13 +1,15 @@
-#Welcome to the Nabi-nano-3d-Freecad based design.
+# Welcome to the Nabi-nano-3d-Freecad based design.
 
-The tiny Nabaztag is intended to house an Seeed Studio XIAO ESP32C6 module with battery. the different variants (will) contain sensors or small displays.
+The tiny Nabaztag is intended to house a Seeed Studio XIAO ESP32C6 module with battery. the different variants (will) contain sensors or small displays.
 
 
 ![Screenshot](Foto2026-06-14.png)
 
 TAGS KAROTZ NABAZTAG NANOZTAG ESP32 
 
-The Freecad model is based on the .stl file from: *Nanoztag clone by clarionut on Thingiverse: https://www.thingiverse.com/thing:3719998*. The .stl is redrawn with a Freecad sketch and rotation for the body and ears and bottom cap.
+The Freecad model is based on the .stl file from: *Nanoztag clone by clarionut on Thingiverse: https://www.thingiverse.com/thing:3719998*.
+
+The .stl is redrawn with a Freecad sketch and rotation for the body and ears and bottom cap.
 
 Nanoztag clone by clarionut is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
 
