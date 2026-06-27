@@ -5,6 +5,11 @@ The tiny Nabaztag is intended to house a Seeed Studio XIAO ESP32C6 module with b
 
 ![Screenshot](Foto2026-06-14.png)
 
+![Screenshot](Freecad2026-06-27-20-51-58.png)
+
+![Screenshot](Freecad-2-2026-06-27-20-52-46.png)
+
+
 TAGS KAROTZ NABAZTAG NANOZTAG ESP32 
 
 The Freecad model is based on the .stl file from: *Nanoztag clone by clarionut on Thingiverse: https://www.thingiverse.com/thing:3719998*.
