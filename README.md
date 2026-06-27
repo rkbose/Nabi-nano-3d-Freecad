@@ -3,7 +3,7 @@ Version 23jan2025
 .
 
 
-![Screenshot](Screenshot from 2026-06-14 09-16-05.png)
+![Screenshot](Foto2026-06-14.png)
 
 
 Based on .stl file from: Nanoztag clone by clarionut on Thingiverse: https://www.thingiverse.com/thing:3719998
