@@ -1,6 +1,6 @@
 # Welcome to the Nabi-nano-3d-Freecad based design.
 
-The tiny Nabaztag is intended to house a Seeed Studio XIAO ESP32C6 module with battery. the different variants (will) contain sensors or small displays.
+The tiny Nabaztag is intended to house a Seeed Studio XIAO ESP32C6 module with battery. The different variants (will) contain sensors or small displays.
 
 
 ![Screenshot](Foto2026-06-14.png)
